@@ -15,6 +15,10 @@ function divide(a, b) {
     return a / b;
 }
 
+function modulus(a, b) {
+    return a % b;
+}
+
 /*
     Summary of Git Bisect Workflow
     Step	               Command	                    Description
